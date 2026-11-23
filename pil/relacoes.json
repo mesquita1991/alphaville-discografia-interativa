@@ -1,0 +1,1289 @@
+{
+  "edges": [
+    {
+      "person": "m1",
+      "target": "Public Image Ltd",
+      "start": 1978,
+      "end": 1992,
+      "kind": "integrante",
+      "note": "Voz, teclados e direção artística · formação musical",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m1",
+      "target": "Public Image Ltd",
+      "start": 2009,
+      "end": 2026,
+      "kind": "integrante",
+      "note": "Voz, teclados e direção artística · formação musical",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m2",
+      "target": "Public Image Ltd",
+      "start": 1978,
+      "end": 1983,
+      "kind": "integrante",
+      "note": "Guitarra, sintetizadores e composição · formação musical",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m3",
+      "target": "Public Image Ltd",
+      "start": 1978,
+      "end": 1980,
+      "kind": "integrante",
+      "note": "Baixo, teclados · formação musical",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m4",
+      "target": "Public Image Ltd",
+      "start": 1978,
+      "end": 1979,
+      "kind": "integrante",
+      "note": "Bateria · formação musical",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m5",
+      "target": "Public Image Ltd",
+      "start": 1979,
+      "end": 1979,
+      "kind": "integrante",
+      "note": "Bateria · passagem breve",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m6",
+      "target": "Public Image Ltd",
+      "start": 1979,
+      "end": 1979,
+      "kind": "integrante",
+      "note": "Bateria · passagem breve",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m7",
+      "target": "Public Image Ltd",
+      "start": 1979,
+      "end": 1979,
+      "kind": "integrante",
+      "note": "Bateria · passagem breve",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m8",
+      "target": "Public Image Ltd",
+      "start": 1979,
+      "end": 1979,
+      "kind": "integrante",
+      "note": "Bateria · passagem breve",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m9",
+      "target": "Public Image Ltd",
+      "start": 1979,
+      "end": 1979,
+      "kind": "integrante",
+      "note": "Bateria · passagem breve",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m10",
+      "target": "Public Image Ltd",
+      "start": 1979,
+      "end": 1981,
+      "kind": "integrante",
+      "note": "Bateria, composição e produção · formação musical",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m10",
+      "target": "Public Image Ltd",
+      "start": 1982,
+      "end": 1985,
+      "kind": "integrante",
+      "note": "Bateria, composição e produção · formação musical",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m11",
+      "target": "Public Image Ltd",
+      "start": 1980,
+      "end": 1980,
+      "kind": "integrante",
+      "note": "Guitarra · passagem breve",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m12",
+      "target": "Public Image Ltd",
+      "start": 1981,
+      "end": 1981,
+      "kind": "turnê",
+      "note": "Participação ao vivo na época indicada; não presume gravação de estúdio.",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m13",
+      "target": "Public Image Ltd",
+      "start": 1982,
+      "end": 1982,
+      "kind": "integrante",
+      "note": "Teclados · passagem breve",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m14",
+      "target": "Public Image Ltd",
+      "start": 1982,
+      "end": 1983,
+      "kind": "integrante",
+      "note": "Baixo · formação musical",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m15",
+      "target": "Public Image Ltd",
+      "start": 1983,
+      "end": 1984,
+      "kind": "turnê",
+      "note": "Participação ao vivo na época indicada; não presume gravação de estúdio.",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m16",
+      "target": "Public Image Ltd",
+      "start": 1983,
+      "end": 1983,
+      "kind": "turnê",
+      "note": "Participação ao vivo na época indicada; não presume gravação de estúdio.",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m17",
+      "target": "Public Image Ltd",
+      "start": 1983,
+      "end": 1983,
+      "kind": "turnê",
+      "note": "Participação ao vivo na época indicada; não presume gravação de estúdio.",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m18",
+      "target": "Public Image Ltd",
+      "start": 1983,
+      "end": 1983,
+      "kind": "turnê",
+      "note": "Participação ao vivo na época indicada; não presume gravação de estúdio.",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m19",
+      "target": "Public Image Ltd",
+      "start": 1984,
+      "end": 1985,
+      "kind": "turnê",
+      "note": "Participação ao vivo na época indicada; não presume gravação de estúdio.",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m20",
+      "target": "Public Image Ltd",
+      "start": 1984,
+      "end": 1985,
+      "kind": "turnê",
+      "note": "Participação ao vivo na época indicada; não presume gravação de estúdio.",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m21",
+      "target": "Public Image Ltd",
+      "start": 1984,
+      "end": 1985,
+      "kind": "turnê",
+      "note": "Participação ao vivo na época indicada; não presume gravação de estúdio.",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m22",
+      "target": "Public Image Ltd",
+      "start": 1986,
+      "end": 1986,
+      "kind": "sessão",
+      "note": "Participação pontual; não integrante permanente.",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m23",
+      "target": "Public Image Ltd",
+      "start": 1986,
+      "end": 1992,
+      "kind": "integrante",
+      "note": "Guitarra · formação musical",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m24",
+      "target": "Public Image Ltd",
+      "start": 1986,
+      "end": 1992,
+      "kind": "integrante",
+      "note": "Baixo e teclados · formação musical",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m25",
+      "target": "Public Image Ltd",
+      "start": 1986,
+      "end": 1988,
+      "kind": "integrante",
+      "note": "Guitarra e multi-instrumentos · formação musical",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m25",
+      "target": "Public Image Ltd",
+      "start": 2009,
+      "end": 2026,
+      "kind": "integrante",
+      "note": "Guitarra e multi-instrumentos · formação musical",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m26",
+      "target": "Public Image Ltd",
+      "start": 1986,
+      "end": 1990,
+      "kind": "integrante",
+      "note": "Bateria · formação musical",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m26",
+      "target": "Public Image Ltd",
+      "start": 2009,
+      "end": 2023,
+      "kind": "integrante",
+      "note": "Bateria · formação musical; saída anunciada em 2024.",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m27",
+      "target": "Public Image Ltd",
+      "start": 1986,
+      "end": 1986,
+      "kind": "ensaio",
+      "note": "Recrutamento e ensaios para a banda de turnê de 1986. Não participou das gravações de Album.",
+      "source": "https://fodderstompf.com/MEMBERS/SESSION/misess.html",
+      "targetType": "banda"
+    },
+    {
+      "person": "m28",
+      "target": "Public Image Ltd",
+      "start": 1989,
+      "end": 1989,
+      "kind": "turnê",
+      "note": "Participação ao vivo na época indicada; não presume gravação de estúdio.",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m28",
+      "target": "Public Image Ltd",
+      "start": 1992,
+      "end": 1992,
+      "kind": "turnê",
+      "note": "Participação ao vivo na época indicada; não presume gravação de estúdio.",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m29",
+      "target": "Public Image Ltd",
+      "start": 1992,
+      "end": 1992,
+      "kind": "turnê",
+      "note": "Participação ao vivo na época indicada; não presume gravação de estúdio.",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m30",
+      "target": "Public Image Ltd",
+      "start": 1992,
+      "end": 1992,
+      "kind": "turnê",
+      "note": "Participação ao vivo na época indicada; não presume gravação de estúdio.",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m31",
+      "target": "Public Image Ltd",
+      "start": 2009,
+      "end": 2026,
+      "kind": "integrante",
+      "note": "Baixo, teclados e sintetizadores · formação musical",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m32",
+      "target": "Public Image Ltd",
+      "start": 2025,
+      "end": 2026,
+      "kind": "integrante",
+      "note": "Bateria · formação musical",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m33",
+      "target": "Public Image Ltd",
+      "start": 1978,
+      "end": 1982,
+      "kind": "administração",
+      "note": "Papel administrativo ou de gestão; não equivale a crédito instrumental.",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m34",
+      "target": "Public Image Ltd",
+      "start": 1978,
+      "end": 1981,
+      "kind": "administração",
+      "note": "Papel administrativo ou de gestão; não equivale a crédito instrumental.",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m35",
+      "target": "Public Image Ltd",
+      "start": null,
+      "end": null,
+      "kind": "administração",
+      "note": "Gestão e produção em diferentes períodos; não há cronologia contínua certificada no site oficial.",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m1",
+      "target": "Sex Pistols",
+      "start": 1975,
+      "end": 1978,
+      "kind": "integrante",
+      "note": "Vocalista da formação histórica; reuniu-se com o grupo em turnês posteriores.",
+      "source": "https://www.johnlydon.com/music/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m1",
+      "target": "Time Zone",
+      "start": 1984,
+      "end": 1984,
+      "kind": "colaboração",
+      "note": "Vocal com Afrika Bambaataa em “World Destruction”; produção de Bill Laswell.",
+      "source": "https://www.johnlydon.com/project/time-zone-world-destruction/",
+      "targetType": "projeto"
+    },
+    {
+      "person": "m1",
+      "target": "Leftfield",
+      "start": 1993,
+      "end": 1993,
+      "kind": "colaboração",
+      "note": "Participação vocal no single “Open Up”.",
+      "source": "https://pilofficial.com/timeline/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m1",
+      "target": "Carreira solo de John Lydon",
+      "start": 1997,
+      "end": 1997,
+      "kind": "solo",
+      "note": "Álbum Psycho’s Path, fora da discografia de estúdio PiL.",
+      "source": "https://pilofficial.com/timeline/",
+      "targetType": "projeto"
+    },
+    {
+      "person": "m1",
+      "target": "Album (1986) — sessões",
+      "start": 1985,
+      "end": 1986,
+      "kind": "produção",
+      "note": "Voz e direção artística da gravação de estúdio de Album.",
+      "source": "https://pilofficial.com/timeline/",
+      "targetType": "gravação"
+    },
+    {
+      "person": "m2",
+      "target": "The Clash",
+      "start": 1976,
+      "end": 1977,
+      "kind": "integrante",
+      "note": "Participou da formação inicial, antes do primeiro disco da banda.",
+      "source": "https://www.allmusic.com/artist/public-image-ltd-mn0000364399/biography",
+      "targetType": "banda"
+    },
+    {
+      "person": "m2",
+      "target": "Vivien Goldman",
+      "start": null,
+      "end": null,
+      "kind": "sessão",
+      "note": "Guitarras em trabalho de Vivien Goldman; data de cada crédito requer conferência.",
+      "source": "https://www.fodderstompf.com/fodmembers.htm",
+      "targetType": "artista"
+    },
+    {
+      "person": "m2",
+      "target": "Yin & Yang (2012)",
+      "start": 2012,
+      "end": 2012,
+      "kind": "colaboração",
+      "note": "Álbum conjunto com Jah Wobble, após a fase original da PiL.",
+      "source": "https://music.apple.com/pt/album/yin-yang/1607490765",
+      "targetType": "gravação"
+    },
+    {
+      "person": "m3",
+      "target": "The Human Condition",
+      "start": 1981,
+      "end": 1981,
+      "kind": "integrante",
+      "note": "Projeto formado após a saída da PiL, documentado em 1981 com Jah Wobble e Jim Walker.",
+      "source": "https://www.fodderstompf.com/ARCHIVES/INTERVIEWS/holg81.html",
+      "targetType": "banda"
+    },
+    {
+      "person": "m3",
+      "target": "Jah Wobble’s Invaders of the Heart",
+      "start": 1982,
+      "end": 2026,
+      "kind": "integrante",
+      "note": "Projeto próprio iniciado na década de 1980; diversas configurações ao longo do tempo.",
+      "source": "https://www.allmusic.com/artist/jah-wobble-mn0000107259",
+      "targetType": "banda"
+    },
+    {
+      "person": "m3",
+      "target": "Holger Czukay",
+      "start": 1981,
+      "end": 1983,
+      "kind": "colaboração",
+      "note": "Colaborações documentadas após a saída da PiL, incluindo Full Circle e Snake Charmer.",
+      "source": "https://www.allmusic.com/artist/jah-wobble-mn0000107259",
+      "targetType": "artista"
+    },
+    {
+      "person": "m3",
+      "target": "Jaki Liebezeit",
+      "start": 1981,
+      "end": 1981,
+      "kind": "colaboração",
+      "note": "Colaboração nas gravações de Full Circle.",
+      "source": "https://www.allmusic.com/artist/jah-wobble-mn0000107259",
+      "targetType": "artista"
+    },
+    {
+      "person": "m3",
+      "target": "The Edge (U2)",
+      "start": 1983,
+      "end": 1983,
+      "kind": "colaboração",
+      "note": "Participação no projeto Snake Charmer.",
+      "source": "https://www.allmusic.com/artist/jah-wobble-mn0000107259",
+      "targetType": "artista"
+    },
+    {
+      "person": "m3",
+      "target": "Brian Eno",
+      "start": null,
+      "end": null,
+      "kind": "colaboração",
+      "note": "Colaboração posterior; período exato não usado para filtragem anual.",
+      "source": "https://www.allmusic.com/artist/jah-wobble-mn0000107259",
+      "targetType": "artista"
+    },
+    {
+      "person": "m3",
+      "target": "The Damage Manual",
+      "start": 2000,
+      "end": 2001,
+      "kind": "integrante",
+      "note": "Projeto com Martin Atkins, Chris Connelly e Geordie Walker.",
+      "source": "https://www.fodderstompf.com/MEMBERS/atkins.html",
+      "targetType": "banda"
+    },
+    {
+      "person": "m3",
+      "target": "Yin & Yang (2012)",
+      "start": 2012,
+      "end": 2012,
+      "kind": "colaboração",
+      "note": "Álbum conjunto de Jah Wobble e Keith Levene.",
+      "source": "https://music.apple.com/pt/album/yin-yang/1607490765",
+      "targetType": "gravação"
+    },
+    {
+      "person": "m3",
+      "target": "Julie Campbell / LoneLady",
+      "start": 2011,
+      "end": 2011,
+      "kind": "colaboração",
+      "note": "Álbum Psychic Life, creditado a Wobble e Julie Campbell.",
+      "source": "https://www.allmusic.com/artist/jah-wobble-mn0000107259",
+      "targetType": "artista"
+    },
+    {
+      "person": "m4",
+      "target": "The Human Condition",
+      "start": 1981,
+      "end": 1981,
+      "kind": "integrante",
+      "note": "Projeto formado após a saída da PiL, documentado em 1981 com Jah Wobble e Jim Walker.",
+      "source": "https://www.fodderstompf.com/ARCHIVES/INTERVIEWS/holg81.html",
+      "targetType": "banda"
+    },
+    {
+      "person": "m8",
+      "target": "The 101ers",
+      "start": 1974,
+      "end": 1976,
+      "kind": "integrante",
+      "note": "Baterista da banda associada a Joe Strummer.",
+      "source": "https://musicbase.net/richard-dudanski",
+      "targetType": "banda"
+    },
+    {
+      "person": "m8",
+      "target": "The Raincoats",
+      "start": 1981,
+      "end": 1984,
+      "kind": "integrante",
+      "note": "Participações em discos posteriores à PiL, incluindo Odyshape e Moving.",
+      "source": "https://musicbase.net/richard-dudanski",
+      "targetType": "banda"
+    },
+    {
+      "person": "m9",
+      "target": "The Fall",
+      "start": 1977,
+      "end": 1998,
+      "kind": "integrante",
+      "note": "Atividade intermitente em diferentes formações; não foi participação contínua.",
+      "source": "https://www.fodderstompf.com/MEMBERS/drummers.html",
+      "targetType": "banda"
+    },
+    {
+      "person": "m10",
+      "target": "Brian Brain",
+      "start": 1980,
+      "end": 1987,
+      "kind": "integrante",
+      "note": "Projeto de Martin Atkins após suas primeiras passagens pela PiL.",
+      "source": "https://www.fodderstompf.com/MEMBERS/atkins.html",
+      "targetType": "banda"
+    },
+    {
+      "person": "m10",
+      "target": "Killing Joke",
+      "start": null,
+      "end": null,
+      "kind": "integrante",
+      "note": "Integração e atividades posteriores à PiL; datas específicas não normalizadas.",
+      "source": "https://martinatkins.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m10",
+      "target": "Ministry",
+      "start": null,
+      "end": null,
+      "kind": "turnê",
+      "note": "Atuação na banda e apresentações de turnê; não atribuir automaticamente todas as faixas.",
+      "source": "https://martinatkins.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m10",
+      "target": "Nine Inch Nails",
+      "start": null,
+      "end": null,
+      "kind": "sessão",
+      "note": "Participações e gravações, incluindo “Wish”; não membro fixo.",
+      "source": "https://martinatkins.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m10",
+      "target": "Pigface",
+      "start": 1990,
+      "end": 2026,
+      "kind": "integrante",
+      "note": "Fundador da formação coletiva e mutável, iniciada em 1990.",
+      "source": "https://martinatkins.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m10",
+      "target": "The Damage Manual",
+      "start": 2000,
+      "end": 2001,
+      "kind": "integrante",
+      "note": "Colaborou com Jah Wobble e outros músicos da cena industrial.",
+      "source": "https://www.fodderstompf.com/MEMBERS/atkins.html",
+      "targetType": "banda"
+    },
+    {
+      "person": "m10",
+      "target": "Murder Inc.",
+      "start": null,
+      "end": null,
+      "kind": "integrante",
+      "note": "Projeto posterior com outros músicos da cena industrial.",
+      "source": "https://martinatkins.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m11",
+      "target": "Rich Kids",
+      "start": 1977,
+      "end": 1979,
+      "kind": "integrante",
+      "note": "Guitarra no grupo pré-PiL de Glen Matlock e Midge Ure.",
+      "source": "https://www.fodderstompf.com/fodmembers.htm",
+      "targetType": "banda"
+    },
+    {
+      "person": "m13",
+      "target": "Cowboys International",
+      "start": 1979,
+      "end": 1981,
+      "kind": "integrante",
+      "note": "Participação anterior à curta passagem pela PiL.",
+      "source": "https://www.fodderstompf.com/fodmembers.htm",
+      "targetType": "banda"
+    },
+    {
+      "person": "m22",
+      "target": "Material",
+      "start": null,
+      "end": null,
+      "kind": "integrante",
+      "note": "Projeto central de Bill Laswell e sua produção experimental.",
+      "source": "https://www.allmusic.com/artist/public-image-ltd-mn0000364399/biography",
+      "targetType": "banda"
+    },
+    {
+      "person": "m22",
+      "target": "Massacre",
+      "start": null,
+      "end": null,
+      "kind": "integrante",
+      "note": "Projeto avant-rock associado a Laswell.",
+      "source": "https://www.allmusic.com/artist/public-image-ltd-mn0000364399/biography",
+      "targetType": "banda"
+    },
+    {
+      "person": "m22",
+      "target": "Praxis",
+      "start": null,
+      "end": null,
+      "kind": "integrante",
+      "note": "Projeto de rock experimental de sua trajetória posterior.",
+      "source": "https://www.allmusic.com/artist/public-image-ltd-mn0000364399/biography",
+      "targetType": "banda"
+    },
+    {
+      "person": "m22",
+      "target": "Last Exit",
+      "start": null,
+      "end": null,
+      "kind": "integrante",
+      "note": "Grupo de improvisação e jazz experimental.",
+      "source": "https://www.allmusic.com/artist/public-image-ltd-mn0000364399/biography",
+      "targetType": "banda"
+    },
+    {
+      "person": "m22",
+      "target": "Time Zone",
+      "start": 1984,
+      "end": 1984,
+      "kind": "produção",
+      "note": "Produção de “World Destruction”, com Lydon e Afrika Bambaataa.",
+      "source": "https://billlaswell.bandcamp.com/album/world-destruction",
+      "targetType": "projeto"
+    },
+    {
+      "person": "m22",
+      "target": "Album (1986) — sessões",
+      "start": 1985,
+      "end": 1986,
+      "kind": "produção",
+      "note": "Produtor e baixista do álbum da PiL; reuniu músicos convidados.",
+      "source": "https://musicbrainz.org/release/075aa52a-4593-487c-a4da-946c3a69c1d8",
+      "targetType": "gravação"
+    },
+    {
+      "person": "m23",
+      "target": "Magazine",
+      "start": 1977,
+      "end": 1980,
+      "kind": "integrante",
+      "note": "Guitarrista dos três primeiros álbuns.",
+      "source": "https://www.johnmcgeoch.com/bio",
+      "targetType": "banda"
+    },
+    {
+      "person": "m23",
+      "target": "Visage",
+      "start": 1979,
+      "end": 1980,
+      "kind": "integrante",
+      "note": "Gravações do single Tar e primeiro álbum.",
+      "source": "https://www.johnmcgeoch.com/bio",
+      "targetType": "banda"
+    },
+    {
+      "person": "m23",
+      "target": "Siouxsie and the Banshees",
+      "start": 1980,
+      "end": 1982,
+      "kind": "integrante",
+      "note": "Guitarra na fase Kaleidoscope, Juju e A Kiss in the Dreamhouse.",
+      "source": "https://www.johnmcgeoch.com/bio",
+      "targetType": "banda"
+    },
+    {
+      "person": "m23",
+      "target": "The Armoury Show",
+      "start": 1983,
+      "end": 1986,
+      "kind": "integrante",
+      "note": "Grupo com Richard Jobson, Russell Webb e John Doyle.",
+      "source": "https://www.johnmcgeoch.com/bio",
+      "targetType": "banda"
+    },
+    {
+      "person": "m23",
+      "target": "Peter Murphy",
+      "start": 1986,
+      "end": 1986,
+      "kind": "sessão",
+      "note": "Participação no álbum solo de estreia do cantor.",
+      "source": "https://www.johnmcgeoch.com/bio",
+      "targetType": "artista"
+    },
+    {
+      "person": "m23",
+      "target": "The Sugarcubes",
+      "start": 1992,
+      "end": 1992,
+      "kind": "sessão",
+      "note": "Guitarra na faixa “Gold” de Stick Around for Joy.",
+      "source": "https://www.johnmcgeoch.com/bio",
+      "targetType": "banda"
+    },
+    {
+      "person": "m23",
+      "target": "Ken Lockie",
+      "start": 1981,
+      "end": 1981,
+      "kind": "sessão",
+      "note": "Contribuição para The Impossible; conexão com outro futuro integrante PiL.",
+      "source": "https://www.johnmcgeoch.com/bio",
+      "targetType": "artista"
+    },
+    {
+      "person": "m25",
+      "target": "The Damned",
+      "start": 1977,
+      "end": 1978,
+      "kind": "integrante",
+      "note": "Atividade anterior à PiL, registrada pela biografia oficial.",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m25",
+      "target": "3 Mustaphas 3",
+      "start": null,
+      "end": null,
+      "kind": "integrante",
+      "note": "Projeto com repertório transcultural e diferentes instrumentos.",
+      "source": "https://www.fodderstompf.com/fodmembers.htm",
+      "targetType": "banda"
+    },
+    {
+      "person": "m25",
+      "target": "The Mekons",
+      "start": null,
+      "end": null,
+      "kind": "colaboração",
+      "note": "Colaboração musical fora da PiL; período exato não consolidado.",
+      "source": "https://pilofficial.com/about/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m25",
+      "target": "Shriekback",
+      "start": null,
+      "end": null,
+      "kind": "colaboração",
+      "note": "Participação musical citada em perfil de Lu Edmonds.",
+      "source": "https://kalx.berkeley.edu/lu-edmonds-of-public-image-ltd-pil/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m25",
+      "target": "Blabbermouth",
+      "start": 2019,
+      "end": 2021,
+      "kind": "integrante",
+      "note": "Projeto com Mark Roberts documentado em entrevistas e no álbum Hörspiel.",
+      "source": "https://www.icmp.ac.uk/blog/interview-blabbermouths-mark-roberts",
+      "targetType": "banda"
+    },
+    {
+      "person": "m25",
+      "target": "A Bigger Mouth",
+      "start": 2025,
+      "end": 2026,
+      "kind": "integrante",
+      "note": "Projeto de improvisação livre com Mark Roberts.",
+      "source": "https://pilofficial.com/blog/mark-roberts-welcome-to-pil/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m25",
+      "target": "Murray Lachlan Young",
+      "start": null,
+      "end": null,
+      "kind": "colaboração",
+      "note": "Trabalhos com o poeta e artista, também envolvendo Mark Roberts.",
+      "source": "https://pilofficial.com/blog/mark-roberts-welcome-to-pil/",
+      "targetType": "artista"
+    },
+    {
+      "person": "m25",
+      "target": "Boris Grebenshchikov",
+      "start": null,
+      "end": null,
+      "kind": "colaboração",
+      "note": "Trabalhos anteriores em conjunto com Mark Roberts.",
+      "source": "https://pilofficial.com/blog/mark-roberts-welcome-to-pil/",
+      "targetType": "artista"
+    },
+    {
+      "person": "m26",
+      "target": "The Pop Group",
+      "start": 1977,
+      "end": 1981,
+      "kind": "integrante",
+      "note": "Baterista da formação de Bristol antes da PiL.",
+      "source": "https://musicbase.net/bruce-smith",
+      "targetType": "banda"
+    },
+    {
+      "person": "m26",
+      "target": "Rip Rig + Panic",
+      "start": 1981,
+      "end": 1983,
+      "kind": "integrante",
+      "note": "Projeto posterior com Gareth Sager e Neneh Cherry.",
+      "source": "https://musicbase.net/bruce-smith",
+      "targetType": "banda"
+    },
+    {
+      "person": "m26",
+      "target": "New Age Steppers",
+      "start": null,
+      "end": null,
+      "kind": "sessão",
+      "note": "Créditos externos documentados; não significa participação permanente.",
+      "source": "https://musicbase.net/bruce-smith",
+      "targetType": "banda"
+    },
+    {
+      "person": "m27",
+      "target": "Iggy Pop",
+      "start": 1986,
+      "end": 1987,
+      "kind": "turnê",
+      "note": "Trabalho de guitarra na turnê em 1986–1987; deixou os planos da formação da PiL.",
+      "source": "https://fodderstompf.com/MEMBERS/SESSION/misess.html",
+      "targetType": "artista"
+    },
+    {
+      "person": "m27",
+      "target": "David Bowie",
+      "start": 1985,
+      "end": 1985,
+      "kind": "turnê",
+      "note": "Guitarra na apresentação de Bowie no Live Aid (1985).",
+      "source": "https://fodderstompf.com/MEMBERS/SESSION/misess.html",
+      "targetType": "artista"
+    },
+    {
+      "person": "m29",
+      "target": "The Smiths",
+      "start": 1982,
+      "end": 1987,
+      "kind": "integrante",
+      "note": "Baterista da formação clássica, antes de tocar ao vivo com a PiL.",
+      "source": "https://www.fodderstompf.com/fodmembers.htm",
+      "targetType": "banda"
+    },
+    {
+      "person": "m30",
+      "target": "The Skids",
+      "start": 1979,
+      "end": 1981,
+      "kind": "integrante",
+      "note": "Baixista do grupo anterior à sua passagem por The Armoury Show.",
+      "source": "https://www.johnmcgeoch.com/bio",
+      "targetType": "banda"
+    },
+    {
+      "person": "m30",
+      "target": "The Armoury Show",
+      "start": 1983,
+      "end": 1986,
+      "kind": "integrante",
+      "note": "Dividiu a formação com John McGeoch antes da PiL.",
+      "source": "https://www.johnmcgeoch.com/bio",
+      "targetType": "banda"
+    },
+    {
+      "person": "m31",
+      "target": "Spice Girls",
+      "start": 2007,
+      "end": 2008,
+      "kind": "turnê",
+      "note": "Baixista em turnê de reunião do grupo; vínculo anterior à PiL.",
+      "source": "https://pilofficial.com/blog/new-single-penge-out-now-amp-album-and-tour-announcement/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m31",
+      "target": "Steve Winwood",
+      "start": null,
+      "end": null,
+      "kind": "colaboração",
+      "note": "Atuação musical citada em biografia oficial; período específico não confirmado.",
+      "source": "https://pilofficial.com/blog/new-single-penge-out-now-amp-album-and-tour-announcement/",
+      "targetType": "artista"
+    },
+    {
+      "person": "m31",
+      "target": "John Martyn",
+      "start": null,
+      "end": null,
+      "kind": "colaboração",
+      "note": "Atuação musical citada em biografia oficial; período específico não confirmado.",
+      "source": "https://pilofficial.com/blog/new-single-penge-out-now-amp-album-and-tour-announcement/",
+      "targetType": "artista"
+    },
+    {
+      "person": "m31",
+      "target": "Elvis Costello",
+      "start": null,
+      "end": null,
+      "kind": "colaboração",
+      "note": "Atuação musical citada em biografia oficial; período específico não confirmado.",
+      "source": "https://pilofficial.com/blog/new-single-penge-out-now-amp-album-and-tour-announcement/",
+      "targetType": "artista"
+    },
+    {
+      "person": "m32",
+      "target": "Blabbermouth",
+      "start": 2019,
+      "end": 2021,
+      "kind": "integrante",
+      "note": "Projeto musical com Lu Edmonds.",
+      "source": "https://www.icmp.ac.uk/blog/interview-blabbermouths-mark-roberts",
+      "targetType": "banda"
+    },
+    {
+      "person": "m32",
+      "target": "A Bigger Mouth",
+      "start": 2025,
+      "end": 2026,
+      "kind": "integrante",
+      "note": "Improvisação livre com Lu Edmonds.",
+      "source": "https://pilofficial.com/blog/mark-roberts-welcome-to-pil/",
+      "targetType": "banda"
+    },
+    {
+      "person": "m32",
+      "target": "Murray Lachlan Young",
+      "start": null,
+      "end": null,
+      "kind": "colaboração",
+      "note": "Álbuns com Lu Edmonds e poeta Murray Lachlan Young.",
+      "source": "https://pilofficial.com/blog/mark-roberts-welcome-to-pil/",
+      "targetType": "artista"
+    },
+    {
+      "person": "m32",
+      "target": "Boris Grebenshchikov",
+      "start": null,
+      "end": null,
+      "kind": "colaboração",
+      "note": "Registros fonográficos com Lu Edmonds e artista russo.",
+      "source": "https://pilofficial.com/blog/mark-roberts-welcome-to-pil/",
+      "targetType": "artista"
+    },
+    {
+      "person": "m32",
+      "target": "Babar Luck",
+      "start": null,
+      "end": null,
+      "kind": "colaboração",
+      "note": "Parcerias fonográficas identificadas em comunicado oficial.",
+      "source": "https://pilofficial.com/blog/mark-roberts-welcome-to-pil/",
+      "targetType": "artista"
+    },
+    {
+      "person": "guest:Steve Vai",
+      "target": "Album (1986) — sessões",
+      "start": 1985,
+      "end": 1986,
+      "kind": "sessão",
+      "note": "Guitarra nas sessões de Album (1986).",
+      "source": "https://musicbrainz.org/release/075aa52a-4593-487c-a4da-946c3a69c1d8",
+      "targetType": "gravação"
+    },
+    {
+      "person": "guest:Ginger Baker",
+      "target": "Album (1986) — sessões",
+      "start": 1985,
+      "end": 1986,
+      "kind": "sessão",
+      "note": "Bateria nas sessões de Album (1986).",
+      "source": "https://musicbrainz.org/release/075aa52a-4593-487c-a4da-946c3a69c1d8",
+      "targetType": "gravação"
+    },
+    {
+      "person": "guest:Ryuichi Sakamoto",
+      "target": "Album (1986) — sessões",
+      "start": 1985,
+      "end": 1986,
+      "kind": "sessão",
+      "note": "Sintetizadores/Fairlight nas sessões de Album (1986).",
+      "source": "https://musicbrainz.org/release/075aa52a-4593-487c-a4da-946c3a69c1d8",
+      "targetType": "gravação"
+    },
+    {
+      "person": "guest:Bernie Worrell",
+      "target": "Album (1986) — sessões",
+      "start": 1985,
+      "end": 1986,
+      "kind": "sessão",
+      "note": "Teclados nas sessões de Album (1986).",
+      "source": "https://musicbrainz.org/release/075aa52a-4593-487c-a4da-946c3a69c1d8",
+      "targetType": "gravação"
+    },
+    {
+      "person": "guest:Tony Williams",
+      "target": "Album (1986) — sessões",
+      "start": 1985,
+      "end": 1986,
+      "kind": "sessão",
+      "note": "Bateria em parte das sessões do álbum de 1986.",
+      "source": "https://musicbrainz.org/release/075aa52a-4593-487c-a4da-946c3a69c1d8",
+      "targetType": "gravação"
+    },
+    {
+      "person": "guest:Afrika Bambaataa",
+      "target": "Time Zone",
+      "start": 1984,
+      "end": 1984,
+      "kind": "colaboração",
+      "note": "Colaborador na gravação de World Destruction, 1984.",
+      "source": "https://www.johnlydon.com/project/time-zone-world-destruction/",
+      "targetType": "projeto"
+    },
+    {
+      "person": "m8",
+      "target": "101ers",
+      "start": null,
+      "end": null,
+      "kind": "colaboração",
+      "note": "Projeto citado no cadastro biográfico. Tipo e período exatos precisam de validação individual.",
+      "source": "https://www.fodderstompf.com/fodmembers.htm",
+      "targetType": "projeto",
+      "provisional": true
+    }
+  ],
+  "guests": [
+    {
+      "name": "Steve Vai",
+      "note": "Guitarra nas sessões de Album (1986).",
+      "source": "https://musicbrainz.org/release/075aa52a-4593-487c-a4da-946c3a69c1d8"
+    },
+    {
+      "name": "Ginger Baker",
+      "note": "Bateria nas sessões de Album (1986).",
+      "source": "https://musicbrainz.org/release/075aa52a-4593-487c-a4da-946c3a69c1d8"
+    },
+    {
+      "name": "Ryuichi Sakamoto",
+      "note": "Sintetizadores/Fairlight nas sessões de Album (1986).",
+      "source": "https://musicbrainz.org/release/075aa52a-4593-487c-a4da-946c3a69c1d8"
+    },
+    {
+      "name": "Bernie Worrell",
+      "note": "Teclados nas sessões de Album (1986).",
+      "source": "https://musicbrainz.org/release/075aa52a-4593-487c-a4da-946c3a69c1d8"
+    },
+    {
+      "name": "Tony Williams",
+      "note": "Bateria em parte das sessões do álbum de 1986.",
+      "source": "https://musicbrainz.org/release/075aa52a-4593-487c-a4da-946c3a69c1d8"
+    },
+    {
+      "name": "Afrika Bambaataa",
+      "note": "Colaborador na gravação de World Destruction, 1984.",
+      "source": "https://www.johnlydon.com/project/time-zone-world-destruction/"
+    }
+  ],
+  "sources": [
+    {
+      "name": "official",
+      "url": "https://pilofficial.com/about/"
+    },
+    {
+      "name": "timeline",
+      "url": "https://pilofficial.com/timeline/"
+    },
+    {
+      "name": "fod",
+      "url": "https://www.fodderstompf.com/fodmembers.htm"
+    },
+    {
+      "name": "atkins",
+      "url": "https://martinatkins.com/about/"
+    },
+    {
+      "name": "atkins2",
+      "url": "https://www.fodderstompf.com/MEMBERS/atkins.html"
+    },
+    {
+      "name": "mcgeoch",
+      "url": "https://www.johnmcgeoch.com/bio"
+    },
+    {
+      "name": "wobble",
+      "url": "https://www.allmusic.com/artist/jah-wobble-mn0000107259"
+    },
+    {
+      "name": "kev",
+      "url": "https://www.fodderstompf.com/MEMBERS/drummers.html"
+    },
+    {
+      "name": "lu",
+      "url": "https://pilofficial.com/blog/mark-roberts-welcome-to-pil/"
+    },
+    {
+      "name": "blab",
+      "url": "https://www.icmp.ac.uk/blog/interview-blabbermouths-mark-roberts"
+    },
+    {
+      "name": "firth",
+      "url": "https://pilofficial.com/blog/new-single-penge-out-now-amp-album-and-tour-announcement/"
+    },
+    {
+      "name": "album",
+      "url": "https://pilofficial.com/timeline/"
+    },
+    {
+      "name": "album_credits",
+      "url": "https://musicbrainz.org/release/075aa52a-4593-487c-a4da-946c3a69c1d8"
+    },
+    {
+      "name": "tzone",
+      "url": "https://www.johnlydon.com/project/time-zone-world-destruction/"
+    },
+    {
+      "name": "tzone_producer",
+      "url": "https://billlaswell.bandcamp.com/album/world-destruction"
+    },
+    {
+      "name": "yin",
+      "url": "https://music.apple.com/pt/album/yin-yang/1607490765"
+    },
+    {
+      "name": "damage",
+      "url": "https://www.fodderstompf.com/MEMBERS/atkins.html"
+    },
+    {
+      "name": "rich",
+      "url": "https://www.fodderstompf.com/fodmembers.htm"
+    },
+    {
+      "name": "john",
+      "url": "https://www.johnlydon.com/music/"
+    },
+    {
+      "name": "bruce",
+      "url": "https://musicbase.net/bruce-smith"
+    },
+    {
+      "name": "dud",
+      "url": "https://musicbase.net/richard-dudanski"
+    },
+    {
+      "name": "lv",
+      "url": "https://www.fodderstompf.com/MEMBERS/levdisc.html"
+    },
+    {
+      "name": "lu2",
+      "url": "https://kalx.berkeley.edu/lu-edmonds-of-public-image-ltd-pil/"
+    },
+    {
+      "name": "allmusic",
+      "url": "https://www.allmusic.com/artist/public-image-ltd-mn0000364399/biography"
+    },
+    {
+      "name": "mcgeo_about",
+      "url": "https://www.johnmcgeoch.com/about"
+    }
+  ]
+}
