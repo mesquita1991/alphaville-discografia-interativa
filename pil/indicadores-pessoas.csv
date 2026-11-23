@@ -1,0 +1,42 @@
+id,nome,categoria,papel,grau_externo,registros_externos_datados,registros_totais,tipos_de_vinculo,fontes_usadas,intermediacao_sem_PiL
+m3,Jah Wobble,fundador,"Baixo, teclados",9,8,10,"colaboração, integrante",5,0.032611
+m25,Lu Edmonds,principal,Guitarra e multi-instrumentos,8,3,10,"colaboração, integrante",5,0.006943
+m10,Martin Atkins,principal,"Bateria, composição e produção",7,3,9,"integrante, sessão, turnê",3,0.020829
+m23,John McGeoch,principal,Guitarra,7,7,8,"integrante, sessão",2,0.006943
+m22,Bill Laswell,convidado,Baixo / produtor,6,2,7,"integrante, produção",4,0.012624
+m1,John Lydon,fundador,"Voz, teclados e direção artística",5,5,7,"colaboração, integrante, produção, solo",4,0.010099
+m32,Mark Roberts,principal,Bateria,5,2,6,"colaboração, integrante",3,0.002525
+m31,Scott Firth,principal,"Baixo, teclados e sintetizadores",4,1,5,"colaboração, turnê",2,0.001262
+m2,Keith Levene,fundador,"Guitarra, sintetizadores e composição",3,2,4,"colaboração, integrante, sessão",4,0.007785
+m26,Bruce Smith,principal,Bateria,3,2,5,"integrante, sessão",2,0.000631
+m30,Russell Webb,turnê,Baixo,2,2,3,integrante,2,0.001683
+m27,Kevin Armstrong,breve,Guitarra,2,2,3,turnê,1,0.00021
+m8,Richard Dudanski,breve,Bateria,2,2,4,"colaboração, integrante",3,0.00021
+guest:Afrika Bambaataa,Afrika Bambaataa,convidado externo,sessão/colaboração,1,1,1,colaboração,1,0.0
+guest:Bernie Worrell,Bernie Worrell,convidado externo,sessão/colaboração,1,1,1,sessão,1,0.0
+guest:Ginger Baker,Ginger Baker,convidado externo,sessão/colaboração,1,1,1,sessão,1,0.0
+m4,Jim Walker,fundador,Bateria,1,1,2,integrante,2,0.0
+m9,Karl Burns,breve,Bateria,1,1,2,integrante,2,0.0
+m13,Ken Lockie,breve,Teclados,1,1,2,integrante,2,0.0
+m29,Mike Joyce,turnê,Bateria,1,1,2,integrante,2,0.0
+guest:Ryuichi Sakamoto,Ryuichi Sakamoto,convidado externo,sessão/colaboração,1,1,1,sessão,1,0.0
+m11,Steve New (Stella Nova),breve,Guitarra,1,1,2,integrante,2,0.0
+guest:Steve Vai,Steve Vai,convidado externo,sessão/colaboração,1,1,1,sessão,1,0.0
+guest:Tony Williams,Tony Williams,convidado externo,sessão/colaboração,1,1,1,sessão,1,0.0
+m24,Allan Dias,principal,Baixo e teclados,0,0,1,,1,0.0
+m17,Arthur Stead,turnê,Teclados,0,0,1,,1,0.0
+m19,Bret Helm,turnê,Baixo,0,0,1,,1,0.0
+m34,Dave Crowe,não musical,Administração,0,0,1,,1,0.0
+m7,David Humphrey,breve,Bateria,0,0,1,,1,0.0
+m6,Eddie Edwards,breve,Bateria,0,0,1,,1,0.0
+m33,Jeannette Lee,não musical,"Administração, imagem e identidade visual",0,0,1,,1,0.0
+m21,Jebin Bruni,turnê,Teclados / guitarra,0,0,1,,1,0.0
+m16,Joe Guida,turnê,Guitarra,0,0,1,,1,0.0
+m35,John Rambo Stevens,não musical,Gestão e produção,0,0,1,,1,0.0
+m15,Louis Bernardi,turnê,Baixo,0,0,1,,1,0.0
+m20,Mark Schulz,turnê,Guitarra,0,0,1,,1,0.0
+m14,Pete Jones,principal,Baixo,0,0,1,,1,0.0
+m12,Sam Ulano,turnê,Bateria,0,0,1,,1,0.0
+m28,Ted Chau,turnê,Guitarra / teclados,0,0,2,,1,0.0
+m18,Tom Zvoncheck,turnê,Teclados,0,0,1,,1,0.0
+m5,Vivian Jackson,breve,Bateria,0,0,1,,1,0.0
