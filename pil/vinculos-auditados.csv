@@ -1,0 +1,116 @@
+pessoa,identificador,destino_original,destino_normalizado,inicio,fim,modalidade,tipo_destino,fase_em_relacao_a_PiL,observacao,fonte,provisorio
+John Lydon,m1,Public Image Ltd,Public Image Ltd,1978,1992,integrante,banda,PiL,"Voz, teclados e direção artística · formação musical",https://pilofficial.com/about/,False
+John Lydon,m1,Public Image Ltd,Public Image Ltd,2009,2026,integrante,banda,PiL,"Voz, teclados e direção artística · formação musical",https://pilofficial.com/about/,False
+Keith Levene,m2,Public Image Ltd,Public Image Ltd,1978,1983,integrante,banda,PiL,"Guitarra, sintetizadores e composição · formação musical",https://pilofficial.com/about/,False
+Jah Wobble,m3,Public Image Ltd,Public Image Ltd,1978,1980,integrante,banda,PiL,"Baixo, teclados · formação musical",https://pilofficial.com/about/,False
+Jim Walker,m4,Public Image Ltd,Public Image Ltd,1978,1979,integrante,banda,PiL,Bateria · formação musical,https://pilofficial.com/about/,False
+Vivian Jackson,m5,Public Image Ltd,Public Image Ltd,1979,1979,integrante,banda,PiL,Bateria · passagem breve,https://pilofficial.com/about/,False
+Eddie Edwards,m6,Public Image Ltd,Public Image Ltd,1979,1979,integrante,banda,PiL,Bateria · passagem breve,https://pilofficial.com/about/,False
+David Humphrey,m7,Public Image Ltd,Public Image Ltd,1979,1979,integrante,banda,PiL,Bateria · passagem breve,https://pilofficial.com/about/,False
+Richard Dudanski,m8,Public Image Ltd,Public Image Ltd,1979,1979,integrante,banda,PiL,Bateria · passagem breve,https://pilofficial.com/about/,False
+Karl Burns,m9,Public Image Ltd,Public Image Ltd,1979,1979,integrante,banda,PiL,Bateria · passagem breve,https://pilofficial.com/about/,False
+Martin Atkins,m10,Public Image Ltd,Public Image Ltd,1979,1981,integrante,banda,PiL,"Bateria, composição e produção · formação musical",https://pilofficial.com/about/,False
+Martin Atkins,m10,Public Image Ltd,Public Image Ltd,1982,1985,integrante,banda,PiL,"Bateria, composição e produção · formação musical",https://pilofficial.com/about/,False
+Steve New (Stella Nova),m11,Public Image Ltd,Public Image Ltd,1980,1980,integrante,banda,PiL,Guitarra · passagem breve,https://pilofficial.com/about/,False
+Sam Ulano,m12,Public Image Ltd,Public Image Ltd,1981,1981,turnê,banda,PiL,Participação ao vivo na época indicada; não presume gravação de estúdio.,https://pilofficial.com/about/,False
+Ken Lockie,m13,Public Image Ltd,Public Image Ltd,1982,1982,integrante,banda,PiL,Teclados · passagem breve,https://pilofficial.com/about/,False
+Pete Jones,m14,Public Image Ltd,Public Image Ltd,1982,1983,integrante,banda,PiL,Baixo · formação musical,https://pilofficial.com/about/,False
+Louis Bernardi,m15,Public Image Ltd,Public Image Ltd,1983,1984,turnê,banda,PiL,Participação ao vivo na época indicada; não presume gravação de estúdio.,https://pilofficial.com/about/,False
+Joe Guida,m16,Public Image Ltd,Public Image Ltd,1983,1983,turnê,banda,PiL,Participação ao vivo na época indicada; não presume gravação de estúdio.,https://pilofficial.com/about/,False
+Arthur Stead,m17,Public Image Ltd,Public Image Ltd,1983,1983,turnê,banda,PiL,Participação ao vivo na época indicada; não presume gravação de estúdio.,https://pilofficial.com/about/,False
+Tom Zvoncheck,m18,Public Image Ltd,Public Image Ltd,1983,1983,turnê,banda,PiL,Participação ao vivo na época indicada; não presume gravação de estúdio.,https://pilofficial.com/about/,False
+Bret Helm,m19,Public Image Ltd,Public Image Ltd,1984,1985,turnê,banda,PiL,Participação ao vivo na época indicada; não presume gravação de estúdio.,https://pilofficial.com/about/,False
+Mark Schulz,m20,Public Image Ltd,Public Image Ltd,1984,1985,turnê,banda,PiL,Participação ao vivo na época indicada; não presume gravação de estúdio.,https://pilofficial.com/about/,False
+Jebin Bruni,m21,Public Image Ltd,Public Image Ltd,1984,1985,turnê,banda,PiL,Participação ao vivo na época indicada; não presume gravação de estúdio.,https://pilofficial.com/about/,False
+Bill Laswell,m22,Public Image Ltd,Public Image Ltd,1986,1986,sessão,banda,PiL,Participação pontual; não integrante permanente.,https://pilofficial.com/about/,False
+John McGeoch,m23,Public Image Ltd,Public Image Ltd,1986,1992,integrante,banda,PiL,Guitarra · formação musical,https://pilofficial.com/about/,False
+Allan Dias,m24,Public Image Ltd,Public Image Ltd,1986,1992,integrante,banda,PiL,Baixo e teclados · formação musical,https://pilofficial.com/about/,False
+Lu Edmonds,m25,Public Image Ltd,Public Image Ltd,1986,1988,integrante,banda,PiL,Guitarra e multi-instrumentos · formação musical,https://pilofficial.com/about/,False
+Lu Edmonds,m25,Public Image Ltd,Public Image Ltd,2009,2026,integrante,banda,PiL,Guitarra e multi-instrumentos · formação musical,https://pilofficial.com/about/,False
+Bruce Smith,m26,Public Image Ltd,Public Image Ltd,1986,1990,integrante,banda,PiL,Bateria · formação musical,https://pilofficial.com/about/,False
+Bruce Smith,m26,Public Image Ltd,Public Image Ltd,2009,2023,integrante,banda,PiL,Bateria · formação musical; saída anunciada em 2024.,https://pilofficial.com/about/,False
+Kevin Armstrong,m27,Public Image Ltd,Public Image Ltd,1986,1986,ensaio,banda,PiL,Recrutamento e ensaios para a banda de turnê de 1986. Não participou das gravações de Album.,https://fodderstompf.com/MEMBERS/SESSION/misess.html,False
+Ted Chau,m28,Public Image Ltd,Public Image Ltd,1989,1989,turnê,banda,PiL,Participação ao vivo na época indicada; não presume gravação de estúdio.,https://pilofficial.com/about/,False
+Ted Chau,m28,Public Image Ltd,Public Image Ltd,1992,1992,turnê,banda,PiL,Participação ao vivo na época indicada; não presume gravação de estúdio.,https://pilofficial.com/about/,False
+Mike Joyce,m29,Public Image Ltd,Public Image Ltd,1992,1992,turnê,banda,PiL,Participação ao vivo na época indicada; não presume gravação de estúdio.,https://pilofficial.com/about/,False
+Russell Webb,m30,Public Image Ltd,Public Image Ltd,1992,1992,turnê,banda,PiL,Participação ao vivo na época indicada; não presume gravação de estúdio.,https://pilofficial.com/about/,False
+Scott Firth,m31,Public Image Ltd,Public Image Ltd,2009,2026,integrante,banda,PiL,"Baixo, teclados e sintetizadores · formação musical",https://pilofficial.com/about/,False
+Mark Roberts,m32,Public Image Ltd,Public Image Ltd,2025,2026,integrante,banda,PiL,Bateria · formação musical,https://pilofficial.com/about/,False
+Jeannette Lee,m33,Public Image Ltd,Public Image Ltd,1978,1982,administração,banda,PiL,Papel administrativo ou de gestão; não equivale a crédito instrumental.,https://pilofficial.com/about/,False
+Dave Crowe,m34,Public Image Ltd,Public Image Ltd,1978,1981,administração,banda,PiL,Papel administrativo ou de gestão; não equivale a crédito instrumental.,https://pilofficial.com/about/,False
+John Rambo Stevens,m35,Public Image Ltd,Public Image Ltd,,,administração,banda,PiL,Gestão e produção em diferentes períodos; não há cronologia contínua certificada no site oficial.,https://pilofficial.com/about/,False
+John Lydon,m1,Sex Pistols,Sex Pistols,1975,1978,integrante,banda,sobreposição de anos,Vocalista da formação histórica; reuniu-se com o grupo em turnês posteriores.,https://www.johnlydon.com/music/,False
+John Lydon,m1,Time Zone,Time Zone,1984,1984,colaboração,projeto,sobreposição de anos,Vocal com Afrika Bambaataa em “World Destruction”; produção de Bill Laswell.,https://www.johnlydon.com/project/time-zone-world-destruction/,False
+John Lydon,m1,Leftfield,Leftfield,1993,1993,colaboração,banda,entre períodos na PiL,Participação vocal no single “Open Up”.,https://pilofficial.com/timeline/,False
+John Lydon,m1,Carreira solo de John Lydon,Carreira solo de John Lydon,1997,1997,solo,projeto,entre períodos na PiL,"Álbum Psycho’s Path, fora da discografia de estúdio PiL.",https://pilofficial.com/timeline/,False
+John Lydon,m1,Album (1986) — sessões,Album (1986) — sessões,1985,1986,produção,gravação,sobreposição de anos,Voz e direção artística da gravação de estúdio de Album.,https://pilofficial.com/timeline/,False
+Keith Levene,m2,The Clash,The Clash,1976,1977,integrante,banda,anterior à PiL,"Participou da formação inicial, antes do primeiro disco da banda.",https://www.allmusic.com/artist/public-image-ltd-mn0000364399/biography,False
+Keith Levene,m2,Vivien Goldman,Vivien Goldman,,,sessão,artista,indeterminado,Guitarras em trabalho de Vivien Goldman; data de cada crédito requer conferência.,https://www.fodderstompf.com/fodmembers.htm,False
+Keith Levene,m2,Yin & Yang (2012),Yin & Yang (2012),2012,2012,colaboração,gravação,posterior à PiL,"Álbum conjunto com Jah Wobble, após a fase original da PiL.",https://music.apple.com/pt/album/yin-yang/1607490765,False
+Jah Wobble,m3,The Human Condition,The Human Condition,1981,1981,integrante,banda,posterior à PiL,"Projeto formado após a saída da PiL, documentado em 1981 com Jah Wobble e Jim Walker.",https://www.fodderstompf.com/ARCHIVES/INTERVIEWS/holg81.html,False
+Jah Wobble,m3,Jah Wobble’s Invaders of the Heart,Jah Wobble’s Invaders of the Heart,1982,2026,integrante,banda,posterior à PiL,Projeto próprio iniciado na década de 1980; diversas configurações ao longo do tempo.,https://www.allmusic.com/artist/jah-wobble-mn0000107259,False
+Jah Wobble,m3,Holger Czukay,Holger Czukay,1981,1983,colaboração,artista,posterior à PiL,"Colaborações documentadas após a saída da PiL, incluindo Full Circle e Snake Charmer.",https://www.allmusic.com/artist/jah-wobble-mn0000107259,False
+Jah Wobble,m3,Jaki Liebezeit,Jaki Liebezeit,1981,1981,colaboração,artista,posterior à PiL,Colaboração nas gravações de Full Circle.,https://www.allmusic.com/artist/jah-wobble-mn0000107259,False
+Jah Wobble,m3,The Edge (U2),The Edge (U2),1983,1983,colaboração,artista,posterior à PiL,Participação no projeto Snake Charmer.,https://www.allmusic.com/artist/jah-wobble-mn0000107259,False
+Jah Wobble,m3,Brian Eno,Brian Eno,,,colaboração,artista,indeterminado,Colaboração posterior; período exato não usado para filtragem anual.,https://www.allmusic.com/artist/jah-wobble-mn0000107259,False
+Jah Wobble,m3,The Damage Manual,The Damage Manual,2000,2001,integrante,banda,posterior à PiL,"Projeto com Martin Atkins, Chris Connelly e Geordie Walker.",https://www.fodderstompf.com/MEMBERS/atkins.html,False
+Jah Wobble,m3,Yin & Yang (2012),Yin & Yang (2012),2012,2012,colaboração,gravação,posterior à PiL,Álbum conjunto de Jah Wobble e Keith Levene.,https://music.apple.com/pt/album/yin-yang/1607490765,False
+Jah Wobble,m3,Julie Campbell / LoneLady,Julie Campbell / LoneLady,2011,2011,colaboração,artista,posterior à PiL,"Álbum Psychic Life, creditado a Wobble e Julie Campbell.",https://www.allmusic.com/artist/jah-wobble-mn0000107259,False
+Jim Walker,m4,The Human Condition,The Human Condition,1981,1981,integrante,banda,posterior à PiL,"Projeto formado após a saída da PiL, documentado em 1981 com Jah Wobble e Jim Walker.",https://www.fodderstompf.com/ARCHIVES/INTERVIEWS/holg81.html,False
+Richard Dudanski,m8,The 101ers,The 101ers,1974,1976,integrante,banda,anterior à PiL,Baterista da banda associada a Joe Strummer.,https://musicbase.net/richard-dudanski,False
+Richard Dudanski,m8,The Raincoats,The Raincoats,1981,1984,integrante,banda,posterior à PiL,"Participações em discos posteriores à PiL, incluindo Odyshape e Moving.",https://musicbase.net/richard-dudanski,False
+Karl Burns,m9,The Fall,The Fall,1977,1998,integrante,banda,sobreposição de anos,Atividade intermitente em diferentes formações; não foi participação contínua.,https://www.fodderstompf.com/MEMBERS/drummers.html,False
+Martin Atkins,m10,Brian Brain,Brian Brain,1980,1987,integrante,banda,sobreposição de anos,Projeto de Martin Atkins após suas primeiras passagens pela PiL.,https://www.fodderstompf.com/MEMBERS/atkins.html,False
+Martin Atkins,m10,Killing Joke,Killing Joke,,,integrante,banda,indeterminado,Integração e atividades posteriores à PiL; datas específicas não normalizadas.,https://martinatkins.com/about/,False
+Martin Atkins,m10,Ministry,Ministry,,,turnê,banda,indeterminado,Atuação na banda e apresentações de turnê; não atribuir automaticamente todas as faixas.,https://martinatkins.com/about/,False
+Martin Atkins,m10,Nine Inch Nails,Nine Inch Nails,,,sessão,banda,indeterminado,"Participações e gravações, incluindo “Wish”; não membro fixo.",https://martinatkins.com/about/,False
+Martin Atkins,m10,Pigface,Pigface,1990,2026,integrante,banda,posterior à PiL,"Fundador da formação coletiva e mutável, iniciada em 1990.",https://martinatkins.com/about/,False
+Martin Atkins,m10,The Damage Manual,The Damage Manual,2000,2001,integrante,banda,posterior à PiL,Colaborou com Jah Wobble e outros músicos da cena industrial.,https://www.fodderstompf.com/MEMBERS/atkins.html,False
+Martin Atkins,m10,Murder Inc.,Murder Inc.,,,integrante,banda,indeterminado,Projeto posterior com outros músicos da cena industrial.,https://martinatkins.com/about/,False
+Steve New (Stella Nova),m11,Rich Kids,Rich Kids,1977,1979,integrante,banda,anterior à PiL,Guitarra no grupo pré-PiL de Glen Matlock e Midge Ure.,https://www.fodderstompf.com/fodmembers.htm,False
+Ken Lockie,m13,Cowboys International,Cowboys International,1979,1981,integrante,banda,anterior à PiL,Participação anterior à curta passagem pela PiL.,https://www.fodderstompf.com/fodmembers.htm,False
+Bill Laswell,m22,Material,Material,,,integrante,banda,indeterminado,Projeto central de Bill Laswell e sua produção experimental.,https://www.allmusic.com/artist/public-image-ltd-mn0000364399/biography,False
+Bill Laswell,m22,Massacre,Massacre,,,integrante,banda,indeterminado,Projeto avant-rock associado a Laswell.,https://www.allmusic.com/artist/public-image-ltd-mn0000364399/biography,False
+Bill Laswell,m22,Praxis,Praxis,,,integrante,banda,indeterminado,Projeto de rock experimental de sua trajetória posterior.,https://www.allmusic.com/artist/public-image-ltd-mn0000364399/biography,False
+Bill Laswell,m22,Last Exit,Last Exit,,,integrante,banda,indeterminado,Grupo de improvisação e jazz experimental.,https://www.allmusic.com/artist/public-image-ltd-mn0000364399/biography,False
+Bill Laswell,m22,Time Zone,Time Zone,1984,1984,produção,projeto,anterior à PiL,"Produção de “World Destruction”, com Lydon e Afrika Bambaataa.",https://billlaswell.bandcamp.com/album/world-destruction,False
+Bill Laswell,m22,Album (1986) — sessões,Album (1986) — sessões,1985,1986,produção,gravação,sobreposição de anos,Produtor e baixista do álbum da PiL; reuniu músicos convidados.,https://musicbrainz.org/release/075aa52a-4593-487c-a4da-946c3a69c1d8,False
+John McGeoch,m23,Magazine,Magazine,1977,1980,integrante,banda,anterior à PiL,Guitarrista dos três primeiros álbuns.,https://www.johnmcgeoch.com/bio,False
+John McGeoch,m23,Visage,Visage,1979,1980,integrante,banda,anterior à PiL,Gravações do single Tar e primeiro álbum.,https://www.johnmcgeoch.com/bio,False
+John McGeoch,m23,Siouxsie and the Banshees,Siouxsie and the Banshees,1980,1982,integrante,banda,anterior à PiL,"Guitarra na fase Kaleidoscope, Juju e A Kiss in the Dreamhouse.",https://www.johnmcgeoch.com/bio,False
+John McGeoch,m23,The Armoury Show,The Armoury Show,1983,1986,integrante,banda,sobreposição de anos,"Grupo com Richard Jobson, Russell Webb e John Doyle.",https://www.johnmcgeoch.com/bio,False
+John McGeoch,m23,Peter Murphy,Peter Murphy,1986,1986,sessão,artista,sobreposição de anos,Participação no álbum solo de estreia do cantor.,https://www.johnmcgeoch.com/bio,False
+John McGeoch,m23,The Sugarcubes,The Sugarcubes,1992,1992,sessão,banda,sobreposição de anos,Guitarra na faixa “Gold” de Stick Around for Joy.,https://www.johnmcgeoch.com/bio,False
+John McGeoch,m23,Ken Lockie,Ken Lockie,1981,1981,sessão,artista,anterior à PiL,Contribuição para The Impossible; conexão com outro futuro integrante PiL.,https://www.johnmcgeoch.com/bio,False
+Lu Edmonds,m25,The Damned,The Damned,1977,1978,integrante,banda,anterior à PiL,"Atividade anterior à PiL, registrada pela biografia oficial.",https://pilofficial.com/about/,False
+Lu Edmonds,m25,3 Mustaphas 3,3 Mustaphas 3,,,integrante,banda,indeterminado,Projeto com repertório transcultural e diferentes instrumentos.,https://www.fodderstompf.com/fodmembers.htm,False
+Lu Edmonds,m25,The Mekons,The Mekons,,,colaboração,banda,indeterminado,Colaboração musical fora da PiL; período exato não consolidado.,https://pilofficial.com/about/,False
+Lu Edmonds,m25,Shriekback,Shriekback,,,colaboração,banda,indeterminado,Participação musical citada em perfil de Lu Edmonds.,https://kalx.berkeley.edu/lu-edmonds-of-public-image-ltd-pil/,False
+Lu Edmonds,m25,Blabbermouth,Blabbermouth,2019,2021,integrante,banda,sobreposição de anos,Projeto com Mark Roberts documentado em entrevistas e no álbum Hörspiel.,https://www.icmp.ac.uk/blog/interview-blabbermouths-mark-roberts,False
+Lu Edmonds,m25,A Bigger Mouth,A Bigger Mouth,2025,2026,integrante,banda,sobreposição de anos,Projeto de improvisação livre com Mark Roberts.,https://pilofficial.com/blog/mark-roberts-welcome-to-pil/,False
+Lu Edmonds,m25,Murray Lachlan Young,Murray Lachlan Young,,,colaboração,artista,indeterminado,"Trabalhos com o poeta e artista, também envolvendo Mark Roberts.",https://pilofficial.com/blog/mark-roberts-welcome-to-pil/,False
+Lu Edmonds,m25,Boris Grebenshchikov,Boris Grebenshchikov,,,colaboração,artista,indeterminado,Trabalhos anteriores em conjunto com Mark Roberts.,https://pilofficial.com/blog/mark-roberts-welcome-to-pil/,False
+Bruce Smith,m26,The Pop Group,The Pop Group,1977,1981,integrante,banda,anterior à PiL,Baterista da formação de Bristol antes da PiL.,https://musicbase.net/bruce-smith,False
+Bruce Smith,m26,Rip Rig + Panic,Rip Rig + Panic,1981,1983,integrante,banda,anterior à PiL,Projeto posterior com Gareth Sager e Neneh Cherry.,https://musicbase.net/bruce-smith,False
+Bruce Smith,m26,New Age Steppers,New Age Steppers,,,sessão,banda,indeterminado,Créditos externos documentados; não significa participação permanente.,https://musicbase.net/bruce-smith,False
+Kevin Armstrong,m27,Iggy Pop,Iggy Pop,1986,1987,turnê,artista,sobreposição de anos,Trabalho de guitarra na turnê em 1986–1987; deixou os planos da formação da PiL.,https://fodderstompf.com/MEMBERS/SESSION/misess.html,False
+Kevin Armstrong,m27,David Bowie,David Bowie,1985,1985,turnê,artista,anterior à PiL,Guitarra na apresentação de Bowie no Live Aid (1985).,https://fodderstompf.com/MEMBERS/SESSION/misess.html,False
+Mike Joyce,m29,The Smiths,The Smiths,1982,1987,integrante,banda,anterior à PiL,"Baterista da formação clássica, antes de tocar ao vivo com a PiL.",https://www.fodderstompf.com/fodmembers.htm,False
+Russell Webb,m30,The Skids,The Skids,1979,1981,integrante,banda,anterior à PiL,Baixista do grupo anterior à sua passagem por The Armoury Show.,https://www.johnmcgeoch.com/bio,False
+Russell Webb,m30,The Armoury Show,The Armoury Show,1983,1986,integrante,banda,anterior à PiL,Dividiu a formação com John McGeoch antes da PiL.,https://www.johnmcgeoch.com/bio,False
+Scott Firth,m31,Spice Girls,Spice Girls,2007,2008,turnê,banda,anterior à PiL,Baixista em turnê de reunião do grupo; vínculo anterior à PiL.,https://pilofficial.com/blog/new-single-penge-out-now-amp-album-and-tour-announcement/,False
+Scott Firth,m31,Steve Winwood,Steve Winwood,,,colaboração,artista,indeterminado,Atuação musical citada em biografia oficial; período específico não confirmado.,https://pilofficial.com/blog/new-single-penge-out-now-amp-album-and-tour-announcement/,False
+Scott Firth,m31,John Martyn,John Martyn,,,colaboração,artista,indeterminado,Atuação musical citada em biografia oficial; período específico não confirmado.,https://pilofficial.com/blog/new-single-penge-out-now-amp-album-and-tour-announcement/,False
+Scott Firth,m31,Elvis Costello,Elvis Costello,,,colaboração,artista,indeterminado,Atuação musical citada em biografia oficial; período específico não confirmado.,https://pilofficial.com/blog/new-single-penge-out-now-amp-album-and-tour-announcement/,False
+Mark Roberts,m32,Blabbermouth,Blabbermouth,2019,2021,integrante,banda,anterior à PiL,Projeto musical com Lu Edmonds.,https://www.icmp.ac.uk/blog/interview-blabbermouths-mark-roberts,False
+Mark Roberts,m32,A Bigger Mouth,A Bigger Mouth,2025,2026,integrante,banda,sobreposição de anos,Improvisação livre com Lu Edmonds.,https://pilofficial.com/blog/mark-roberts-welcome-to-pil/,False
+Mark Roberts,m32,Murray Lachlan Young,Murray Lachlan Young,,,colaboração,artista,indeterminado,Álbuns com Lu Edmonds e poeta Murray Lachlan Young.,https://pilofficial.com/blog/mark-roberts-welcome-to-pil/,False
+Mark Roberts,m32,Boris Grebenshchikov,Boris Grebenshchikov,,,colaboração,artista,indeterminado,Registros fonográficos com Lu Edmonds e artista russo.,https://pilofficial.com/blog/mark-roberts-welcome-to-pil/,False
+Mark Roberts,m32,Babar Luck,Babar Luck,,,colaboração,artista,indeterminado,Parcerias fonográficas identificadas em comunicado oficial.,https://pilofficial.com/blog/mark-roberts-welcome-to-pil/,False
+Steve Vai,guest:Steve Vai,Album (1986) — sessões,Album (1986) — sessões,1985,1986,sessão,gravação,indeterminado,Guitarra nas sessões de Album (1986).,https://musicbrainz.org/release/075aa52a-4593-487c-a4da-946c3a69c1d8,False
+Ginger Baker,guest:Ginger Baker,Album (1986) — sessões,Album (1986) — sessões,1985,1986,sessão,gravação,indeterminado,Bateria nas sessões de Album (1986).,https://musicbrainz.org/release/075aa52a-4593-487c-a4da-946c3a69c1d8,False
+Ryuichi Sakamoto,guest:Ryuichi Sakamoto,Album (1986) — sessões,Album (1986) — sessões,1985,1986,sessão,gravação,indeterminado,Sintetizadores/Fairlight nas sessões de Album (1986).,https://musicbrainz.org/release/075aa52a-4593-487c-a4da-946c3a69c1d8,False
+Bernie Worrell,guest:Bernie Worrell,Album (1986) — sessões,Album (1986) — sessões,1985,1986,sessão,gravação,indeterminado,Teclados nas sessões de Album (1986).,https://musicbrainz.org/release/075aa52a-4593-487c-a4da-946c3a69c1d8,False
+Tony Williams,guest:Tony Williams,Album (1986) — sessões,Album (1986) — sessões,1985,1986,sessão,gravação,indeterminado,Bateria em parte das sessões do álbum de 1986.,https://musicbrainz.org/release/075aa52a-4593-487c-a4da-946c3a69c1d8,False
+Afrika Bambaataa,guest:Afrika Bambaataa,Time Zone,Time Zone,1984,1984,colaboração,projeto,indeterminado,"Colaborador na gravação de World Destruction, 1984.",https://www.johnlydon.com/project/time-zone-world-destruction/,False
+Richard Dudanski,m8,101ers,The 101ers,,,colaboração,projeto,indeterminado,Projeto citado no cadastro biográfico. Tipo e período exatos precisam de validação individual.,https://www.fodderstompf.com/fodmembers.htm,True
